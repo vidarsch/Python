@@ -1,0 +1,5 @@
+Letar efter lediga padeltider.
+
+Du får skriva vilken/vilka dagar, vilka hallar samt tidspann du vill spela.
+
+Sedan kollar den kontinuerligt igenom matchi hemsidan efter lediga tider och skickar ett email när någon avbokar.
