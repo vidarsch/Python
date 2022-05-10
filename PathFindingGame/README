@@ -1,0 +1,8 @@
+Simple path finding game with pygame. One of my first projects
+
+The game creates a grid with checkpoints and the "snake" will start in the bottom right corner and get to all the checkpoints then to the finish.
+
+You can draw by holding left mouse button and create a "maze" before you press the green button to begin.
+
+The game will tell you the path length and also start walking through the shortest path.
+
