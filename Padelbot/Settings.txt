@@ -1,0 +1,7 @@
+padelCourts = ["Ultimate Padel", "Catella Arena", "Padelverket Spånga", "Klövern Padelcenter : Kista", "MOVE Wellness", "Solna Padel Court", "Svea Padel : Täby"]
+NUMB_OF_DAYS = 6
+SKIP_DAYS = [7,1]
+PREF_TID = [15,24]
+TO_EMAIL = 'andreas95englund@gmail.com'
+FROM_EMAIL = 'padeltimer@gmail.com'
+EMAIL_PASSWORD = 'padelbot1'
