@@ -1,5 +1,6 @@
-Enkelt program för att skatta stora mängder av kryptovalutor
+Enkelt program för att skatta stora mängder av kryptotransaktioner
 
+Saker att fixa
 Formattering av resultatet är svår läst
 Resultatet borde sparas i txt
 Kan enbart beräkna skatt på en CSV fil i taget
